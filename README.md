@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17403487&assignment_repo_type=AssignmentRepo)
 # 👋 Hi! Welcome to GitHub!
 
 Alright, get set for some real **GitHub action**! We're diving into a **scavenger hunt**, where you'll navigate the wilds of **branches** 🌿, uncover the secrets of **commits** 💾, and delve into the mysteries of **pull requests** and **code reviews** 🔍. Whether you're eyeing a career as a software engineer, want to contribute to open-source projects, or just love learning new skills, knowing your way around GitHub is a game-changer.
